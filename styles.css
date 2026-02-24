@@ -144,7 +144,7 @@ body {
     margin-right: 8px;
 }
 
-.footer {
+footer {
     padding: 16px 24px;
     background-color: #f0f0f0;
     margin-top: 40px;
@@ -152,7 +152,7 @@ body {
     font-size: 12px;
 }
 
-.footer a {
+footer a {
     color: #999999;
     text-decoration: none;
     margin-left: 8px;
